@@ -6,7 +6,7 @@ Este repositório contém implementações de diversos algoritmos de **busca** e
 
 ### 🔍 Algoritmos de Busca
 
-- **[Linear Search](.search/1_linear_search/)** 🔹 Busca sequencial
+- **[Linear Search](search_algorithms/1_linear_search/)** 🔹 Busca sequencial
 - **[Binary Search](./2_binary_search/)** 🔹 Busca binária
 - **[Interpolation Search](./3_interpolation_search/)** 🔹 Busca por interpolação
 - **[Exponential Search](./4_exponential_search/)** 🔹 Busca exponencial
